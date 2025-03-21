@@ -1,6 +1,7 @@
 # Welcome to My GitHub Repository :) 👋!
 
-Here, you'll find a collection of my tasks and projects for my Master's program in Statistical Computing at CIMAT and some special subjects in ML, Data Science and more. 
+Here, you'll find a collection of my tasks and projectS. 
+
 
 <!--
 ## Join Me
