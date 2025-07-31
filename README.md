@@ -5,7 +5,7 @@
   <h3>Data Science | MSc Statistical Computing | Physical Engineer | NLP Practitioner</h3>
 </div>
 
-Here, you'll find a collection of my data science projects, experiments, and learning tasks. My goal is to grow as a data professional by tackling real-world problems. Feel free to explore, collaborate, or reach out!
+Here, you'll find a collection of my data science projects, experiments, and learning tasks. I'm trying to grow as a data professional by tackling real-world problems. Feel free to explore, collaborate, or reach out!
 
 
 🌱 I'm constantly exploring new techniques in:
